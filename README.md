@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 i'm Shigeki a.k.a Edward.
+
 i like code.
+
+InfoQ Profiles:
+- [Shoji-Shigeki](https://www.infoq.com/jp/profile/Shoji-Shigeki/)
+- [Shoji-Shigeki](https://www.infoq.com/jp/profile/-Shoji-Shigeki/)
 
 <!--
 **edward-mamezou/edward-mamezou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
