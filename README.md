@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-i'm Shigeki a.k.a Edward.
+I'm Shigeki a.k.a Edward.
 
-i like code.
+I like code.
 
-InfoQ Profiles:
+[InfoQ](https://infoq.com) Profiles:
 - [Shoji-Shigeki](https://www.infoq.com/jp/profile/Shoji-Shigeki/)
 - [Shoji-Shigeki](https://www.infoq.com/jp/profile/-Shoji-Shigeki/)
 
