@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+i'm Shigeki a.k.a Edward.
+i like code.
+
 <!--
 **edward-mamezou/edward-mamezou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
