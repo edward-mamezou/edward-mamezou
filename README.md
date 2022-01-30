@@ -1,24 +1,9 @@
-### Hi there 👋
+Shigeki Ed Shoji, Consultant at Mamezou Co.,Ltd.
 
-I'm Shigeki a.k.a Edward.
+software developer, solutions architect, speaker, translator, and more.
 
-I like code.
-
-[InfoQ](https://infoq.com) Profiles:
-- [Shoji-Shigeki](https://www.infoq.com/jp/profile/Shoji-Shigeki/)
-- [Shoji-Shigeki](https://www.infoq.com/jp/profile/-Shoji-Shigeki/)
-
-<!--
-**edward-mamezou/edward-mamezou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter: https://twitter.com/takesection
+InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
+Facebook: https://www.facebook.com/shigekishoji
+Linkedin: https://www.linkedin.com/in/takesection/
+Hatena: https://s-edword.hatenablog.com/
