@@ -1,6 +1,6 @@
 Shigeki Ed Shoji, Consultant at Mamezou Co.,Ltd.
 
-software developer, solutions architect, speaker, translator, and more.
+software developer, solutions architect, speaker, translator.
 
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
 * Linkedin: https://www.linkedin.com/in/takesection/
