@@ -1,6 +1,6 @@
 Shigeki Ed Shoji
 
-Cloud Consultant at Mamezou Co.,Ltd. | Cloud Solutions Architect | Translator | Speaker | 2X AWS Certified
+Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator | Speaker | 2X AWS Certified
 
 ![2x AWS Certified](2x-aws-certified.png)
 
