@@ -6,8 +6,7 @@ Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator |
 
 [Credly](https://www.credly.com/users/username.835c802c/badges): 
 
-![2x AWS Certified](2x-aws-certified.png)
-
+![2x AWS Certified](https://github.com/takesection/takesection/raw/main/badges.png)
 
 * 豆蔵デベロッパーサイト: https://developer.mamezou-tech.com/authors/shigeki-shoji/
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
