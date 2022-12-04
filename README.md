@@ -8,6 +8,8 @@ Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator |
 
 ![2x AWS Certified](https://github.com/takesection/takesection/raw/main/badges.png)
 
+![APN](apn-badge.png)
+
 * 豆蔵デベロッパーサイト: https://developer.mamezou-tech.com/authors/shigeki-shoji/
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
 * Twitter: https://twitter.com/takesection
