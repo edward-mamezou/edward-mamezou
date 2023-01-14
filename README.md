@@ -1,12 +1,12 @@
 Hi there, I'm Shigeki Shoji.
 
-Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator | Speaker | 3X AWS Certified
+Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator | Speaker | 4X AWS Certified
 
 [Linkedin](https://www.linkedin.com/in/takesection/)
 
 [Credly](https://www.credly.com/users/username.835c802c/badges): 
 
-![3x AWS Certified](https://github.com/takesection/takesection/raw/main/badges.png)
+![4x AWS Certified](https://github.com/takesection/takesection/raw/main/badges.png)
 
 ![APN](apn-badge.png)
 
