@@ -12,6 +12,8 @@ Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator |
 
 ![APN](apn-badge.png)
 
+![Professional Scrum](https://github.com/takesection/takesection/raw/main/professional-scrum.png)
+
 * 豆蔵デベロッパーサイト: https://developer.mamezou-tech.com/authors/shigeki-shoji/
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
 * Twitter: https://twitter.com/takesection
