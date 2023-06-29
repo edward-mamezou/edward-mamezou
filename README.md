@@ -4,7 +4,7 @@ Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator |
 
 <br>
 
-![](2023JapanAWSTopEngineers-logo_light.png)
+<img src="https://github.com/edward-mamezou/edward-mamezou/blob/main/2023JapanAWSTopEngineers-logo_light.png" width="240px">
 
 [Linkedin](https://www.linkedin.com/in/takesection/)
 
