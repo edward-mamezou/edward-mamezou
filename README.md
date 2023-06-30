@@ -4,8 +4,6 @@ Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator |
 
 <a href="https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-top-engineers/"><img src="https://github.com/edward-mamezou/edward-mamezou/blob/main/2023JapanAWSTopEngineers-logo_light.png" width="240px"></a>
 
-[Linkedin](https://www.linkedin.com/in/takesection/)
-
 [Credly](https://www.credly.com/users/username.835c802c/badges): 
 
 ![AWS Certified](https://github.com/takesection/takesection/raw/main/badges.png)
@@ -20,3 +18,4 @@ Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator |
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
 * Twitter: https://twitter.com/takesection
 * Hatena: https://s-edword.hatenablog.com/
+* Linkedin: https://www.linkedin.com/in/takesection/
