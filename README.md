@@ -1,4 +1,4 @@
-![](/takesection/takesection/raw/main/header.png)
+![](https://github.com/takesection/takesection/raw/main/header.png)
 
 Hi there, I'm Shigeki Shoji.
 
