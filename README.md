@@ -1,3 +1,5 @@
+![](/takesection/takesection/raw/main/header.png)
+
 Hi there, I'm Shigeki Shoji.
 
 Cloud Consultant at Mamezou Co., Ltd. | Cloud Solutions Architect | Translator | Speaker | 12X AWS Certified
