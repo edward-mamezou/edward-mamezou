@@ -2,7 +2,7 @@
 
 Hi there, I'm Shigeki Shoji.
 
-Instructional Designer | AWS Authorized Instructor | Speaker | 14X AWS Certified
+Instructional Designer | AWS Authorized Instructor | Agile Coach | Speaker | 14X AWS Certified
 
 <a href="https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-top-engineers/"><img src="https://github.com/edward-mamezou/edward-mamezou/blob/main/2023JapanAWSTopEngineers-logo_light.png" width="360px"></a>
 
